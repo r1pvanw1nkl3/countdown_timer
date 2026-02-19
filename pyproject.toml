@@ -15,4 +15,4 @@ package = true
 py-modules = ["main"]
 
 [project.scripts]
-presentation-timer = "main:main"
+timer = "main:main"
