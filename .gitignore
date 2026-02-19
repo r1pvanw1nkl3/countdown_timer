@@ -13,3 +13,6 @@ __pycache__/
 # OS Files
 .DS_Store
 Thumbs.db
+
+
+/countdown_timer.egg-info
